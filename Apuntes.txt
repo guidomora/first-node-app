@@ -1,0 +1,6 @@
+En el package.json, en la parte de scripts podemos crear nuestros propios scripts
+
+Ej: "base3" : "node app base=3" en vez de pasarle este valor por la consola vamos a poder ejecutar
+"npm run base3" 
+
+Colors: dependencia que sirve para daler colores a la consola, capaz sirve para marcar mejor en la consola.
